@@ -1,6 +1,6 @@
 ## 等什么呢
 
-来这里看看：[我的小站](arthurblog.pages.dev "我的小站")
+来这里看看：[我的小站](https://arthurblog.pages.dev "我的小站")
 
 ## 🧩 Markdown Extended Syntax
 
