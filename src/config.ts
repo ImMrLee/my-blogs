@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "车厘笔记",
-			url: "http://mrlee.w1.luyouxia.net/cherrynotes.html", // Internal links should not include the base path, as it is automatically added
+			url: "http://124.223.118.98:800/cherrynotes", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
